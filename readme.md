@@ -10,7 +10,8 @@ You can also reach me out through my github profile for more information as I li
 #### Addtions
 *Here I have just ensured that the router can host different apps on different paths without any conflicts in the resolution of the path*
 The `server.js` is a express app that, with the help of middlewares, can make a easy router which somehow connects different apps and can make them accessible through the same url on different paths.
-
+#### How to run it to experience it by ownself
+Just run `node server` on the terminal and head on to the `localhost:3136` address with your favourite browser.
 #### Contributes
 Definately accepted in the form of an issue.
 
